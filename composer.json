@@ -15,9 +15,15 @@
             "homepage": "http://symfony.com/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Social-Places/swiftmailer.git"
+        }
+    ],
     "require": {
         "php": ">=7.1",
-        "swiftmailer/swiftmailer": "^6.3",
+        "swiftmailer/swiftmailer": "dev-master",
         "symfony/dependency-injection": "^4.4|^5.0|^6.0",
         "symfony/http-kernel": "^4.4|^5.0|^6.0",
         "symfony/config": "^4.4|^5.0|^6.0"
