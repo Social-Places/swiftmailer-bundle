@@ -24,7 +24,7 @@
                 "source": {
                     "url": "https://github.com/Social-Places/swiftmailer.git",
                     "type": "git",
-                    "branch": "symfony-6-4"
+                    "reference": "symfony-6-4"
                 }
             }
         }
