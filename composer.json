@@ -23,7 +23,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "swiftmailer/swiftmailer": "dev-symfony-6-4",
+        "Social-Places/swiftmailer": "dev-symfony-6-4",
         "symfony/dependency-injection": "^4.4|^5.0|^6.0",
         "symfony/http-kernel": "^4.4|^5.0|^6.0",
         "symfony/config": "^4.4|^5.0|^6.0"
