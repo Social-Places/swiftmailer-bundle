@@ -19,7 +19,7 @@
         {
             "type": "package",
             "package": {
-                "name": "Social-Places/swiftmailer",
+                "name": "social-olaces/swiftmailer",
                 "version": "6.4",
                 "source": {
                     "url": "https://github.com/Social-Places/swiftmailer.git",
@@ -31,7 +31,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "Social-Places/swiftmailer": "6.4",
+        "social-places/swiftmailer": "*",
         "symfony/dependency-injection": "^4.4|^5.0|^6.0",
         "symfony/http-kernel": "^4.4|^5.0|^6.0",
         "symfony/config": "^4.4|^5.0|^6.0"
