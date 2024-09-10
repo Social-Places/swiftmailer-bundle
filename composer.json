@@ -19,7 +19,7 @@
         {
             "type": "package",
             "package": {
-                "name": "social-olaces/swiftmailer",
+                "name": "social-places/swiftmailer",
                 "version": "6.4",
                 "source": {
                     "url": "https://github.com/Social-Places/swiftmailer.git",
