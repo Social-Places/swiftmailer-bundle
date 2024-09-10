@@ -21,6 +21,7 @@
             "package": {
                 "name": "social-places/swiftmailer",
                 "version": "6.4",
+                "type": "package",
                 "source": {
                     "url": "https://github.com/Social-Places/swiftmailer.git",
                     "type": "git",
